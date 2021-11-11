@@ -1,5 +1,9 @@
 # SONG-LYRICS-USING-NLP-AND-CLUSTERING
-# What is inside:
-This project is done during SDAIA Academy bootcamp of Data Science and AI, in collaboration with [AhadAl977](https://github.com/AhadAl977).
-# About the repository:
+# About the Repositry
+SDAIA T5 Data Science Bootcamp - Unsupervised NLP Project <br>
+This project focuses on the analysis of song lyrics to get the under meaning of each genre using Natrual Langauge Processing and Clustering as part of machine learning algorithms.
+### This repositry contains:
 - [Project Proposal](https://github.com/renad-albishri/SONG-LYRICS-USING-NLP-AND-CLUSTERING/blob/main/Song%20Lyrics%20Proposal.md)
+
+
+<br/> This project was done in collaboration with [AhadAl977](https://github.com/AhadAl977).
